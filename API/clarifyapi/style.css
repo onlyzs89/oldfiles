@@ -1,0 +1,93 @@
+body{    
+    padding: 			70px 0 50px 0;
+	font-size:			14px;
+}  
+
+#image_header{
+	position: 			fixed;  
+    top: 				0;  
+    left: 				0;
+	right:				0;
+	width: 				auto; 
+	height:				45px;
+	background-color:	#ccccff;
+	padding: 			10px;
+}
+
+#image_footer{
+	position: 			fixed;   
+    bottom: 			0;  
+    left: 				0;
+	right:				0;
+	width: 				auto; 
+	height:				25px;
+	background-color:	#ccccff;
+	padding: 			10px;
+}
+
+#header_text{
+	text-align: 		center;  
+	margin:				auto;
+	font-size:			1.2rem;
+	font-weight: 		bold;
+	font-family: 		"Times New Roman", Times, serif;
+	padding:			auto;
+}
+
+#footer_text{
+	text-align: 		right;  
+	margin:				auto;
+	font-size:			1rem;
+	font-family: 		"Times New Roman", Times, serif;
+}
+
+#logo{
+	height:				30px;
+	width:				auto;
+}
+
+.image_request{
+	
+}
+
+.image_response{
+	font-family: 		"ヒラギノ明朝 ProN W6", "HiraMinProN-W6", "HG明朝E", "ＭＳ Ｐ明朝", "MS PMincho", "MS 明朝", serif;
+	font-size: 			1rem;
+}
+
+.image_div{
+	font-family: 		"ヒラギノ明朝 ProN W6", "HiraMinProN-W6", "HG明朝E", "ＭＳ Ｐ明朝", "MS PMincho", "MS 明朝", serif;
+	font-size: 			1rem;
+}
+
+.content_p{
+	font-family: 		"Times New Roman", Times, serif;
+	font-size: 			1.2rem;
+	padding:			5px 0px;
+}
+
+#ana_btn{
+	font-family: 		"Times New Roman", Times, serif;
+	font-size: 			1.2rem;
+	border-style: 		none;
+	padding: 			3px 30px;
+
+	box-shadow: 		1px 1px 1px 1px #666;
+    -moz-box-shadow: 	1px 1px 1px 1px #666;
+    -webkit-box-shadow: 1px 1px 2px 1px #666;
+
+	background: 		-moz-linear-gradient(bottom, #e6f0ff, #87a0c5 50%, #e6f0ff);
+	background: 		-webkit-gradient(linear, left bottom, left top, from(#e6f0ff), color-stop(0.5, #87a0c5), to(#e6f0ff));
+	
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 		5px;
+
+}
+
+#lang_ch{
+	position: 			absolute;  
+    top: 				15px;  
+	right:				10px;
+	font-size: 			0.8rem;
+}
