@@ -1,5 +1,5 @@
 # coding:utf-8
-# chan@nippon-rad 2016/08/18
+# onlyzs 2016/08/18
 # SVC
 
 from gensim import corpora, models, similarities
